@@ -1,0 +1,98 @@
+#body {
+  background-color: #F6F6F6;
+}
+
+.bg
+{
+    width: 100%;
+    z-index: 0;
+}
+
+.labely {
+    font-family: "Garamond";
+    font-weight: bold;
+}
+
+.labelx {
+    font-family: "Garamond";
+    font-weight: bold;
+}
+
+.labeltop {
+    font-family: "Garamond";
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.axisX {
+    font-family: "Garamond";
+}
+
+.axisY {
+    font-family: "Garamond";
+}
+
+.measures {
+    font-family: "Garamond";
+    font-size: medium;
+    font-weight: bold;
+}
+
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+/****************/
+/*   TOOLTIPS   */
+/****************/
+
+.d3-tip {
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  pointer-events: none;
+}
+
+.d3-tip.n:after {
+  content: "\25BC";
+  margin: -3px 0 0 0;
+  top: 100%;
+  left: 0;
+  text-align: center;
+}
+
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 60px;
+    height: 28px;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
