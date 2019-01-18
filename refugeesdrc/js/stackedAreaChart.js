@@ -56,7 +56,7 @@ StackedAreaChart.prototype.initVis = function(){
 
     vis.xAxis = d3.axisBottom()
         .scale(vis.x)
-        .ticks(19);
+        .ticks(20);
 
     vis.yAxis = d3.axisLeft()
         .scale(vis.y);
