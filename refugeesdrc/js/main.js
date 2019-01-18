@@ -19,7 +19,7 @@ function loadData() {
     d3.json("data/codebeautify.json", function(error, jsonData){
         if(!error){
             allData = jsonData;
-            allData = allData.slice(0,19);
+            allData = allData.slice(0,20);
             allData.forEach(function(v){ delete v.Item });
 
             // Convert Pence Sterling (GBX) to USD and years to date objects
