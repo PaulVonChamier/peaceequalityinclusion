@@ -1,0 +1,604 @@
+﻿[
+	{
+		"Item": "0",
+		"Ituri": "64",
+		"Nord-Kivu": "1032",
+		"Sud-Kivu": "203",
+		"Year": "1997"
+	},
+	{
+		"Item": "1",
+		"Ituri": "0",
+		"Nord-Kivu": "865",
+		"Sud-Kivu": "985",
+		"Year": "1998"
+	},
+	{
+		"Item": "2",
+		"Ituri": "1126",
+		"Nord-Kivu": "408",
+		"Sud-Kivu": "1075",
+		"Year": "1999"
+	},
+	{
+		"Item": "3",
+		"Ituri": "514",
+		"Nord-Kivu": "63",
+		"Sud-Kivu": "171",
+		"Year": "2000"
+	},
+	{
+		"Item": "4",
+		"Ituri": "1184",
+		"Nord-Kivu": "280",
+		"Sud-Kivu": "597",
+		"Year": "2001"
+	},
+	{
+		"Item": "5",
+		"Ituri": "2349",
+		"Nord-Kivu": "275",
+		"Sud-Kivu": "2856",
+		"Year": "2002"
+	},
+	{
+		"Item": "6",
+		"Ituri": "2467",
+		"Nord-Kivu": "228",
+		"Sud-Kivu": "95",
+		"Year": "2003"
+	},
+	{
+		"Item": "7",
+		"Ituri": "63",
+		"Nord-Kivu": "201",
+		"Sud-Kivu": "98",
+		"Year": "2004"
+	},
+	{
+		"Item": "8",
+		"Ituri": "82",
+		"Nord-Kivu": "207",
+		"Sud-Kivu": "170",
+		"Year": "2005"
+	},
+	{
+		"Item": "9",
+		"Ituri": "135",
+		"Nord-Kivu": "61",
+		"Sud-Kivu": "45",
+		"Year": "2006"
+	},
+	{
+		"Item": "10",
+		"Ituri": "31",
+		"Nord-Kivu": "146",
+		"Sud-Kivu": "21",
+		"Year": "2007"
+	},
+	{
+		"Item": "11",
+		"Ituri": "269",
+		"Nord-Kivu": "144",
+		"Sud-Kivu": "16",
+		"Year": "2008"
+	},
+	{
+		"Item": "12",
+		"Ituri": "2352",
+		"Nord-Kivu": "1156",
+		"Sud-Kivu": "1981",
+		"Year": "2009"
+	},
+	{
+		"Item": "13",
+		"Ituri": "24",
+		"Nord-Kivu": "406",
+		"Sud-Kivu": "269",
+		"Year": "2010"
+	},
+	{
+		"Item": "14",
+		"Ituri": "11",
+		"Nord-Kivu": "197",
+		"Sud-Kivu": "156",
+		"Year": "2011"
+	},
+	{
+		"Item": "15",
+		"Ituri": "131",
+		"Nord-Kivu": "707",
+		"Sud-Kivu": "491",
+		"Year": "2012"
+	},
+	{
+		"Item": "16",
+		"Ituri": "144",
+		"Nord-Kivu": "939",
+		"Sud-Kivu": "82",
+		"Year": "2013"
+	},
+	{
+		"Item": "17",
+		"Ituri": "92",
+		"Nord-Kivu": "674",
+		"Sud-Kivu": "204",
+		"Year": "2014"
+	},
+	{
+		"Item": "18",
+		"Ituri": "232",
+		"Nord-Kivu": "792",
+		"Sud-Kivu": "112",
+		"Year": "2015"
+	},
+	{
+		"Item": "19",
+		"Ituri": "140",
+		"Nord-Kivu": "958",
+		"Sud-Kivu": "112",
+		"Year": "2016"
+	},
+	{
+		"Item": "20",
+		"Ituri": "94",
+		"Nord-Kivu": "795",
+		"Sud-Kivu": "208",
+		"Year": "2017"
+	},
+	{
+		"Item": "21",
+		"Ituri": "330",
+		"Nord-Kivu": "650",
+		"Sud-Kivu": "244",
+		"Year": "2018"
+	},
+	{
+		"Item": "number",
+		"Ituri": "item",
+		"Nord-Kivu": "value"
+	},
+	{
+		"Item": "0",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "64"
+	},
+	{
+		"Item": "0",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "1032"
+	},
+	{
+		"Item": "0",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "203"
+	},
+	{
+		"Item": "0",
+		"Ituri": "Year",
+		"Nord-Kivu": "1997"
+	},
+	{
+		"Item": "1",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "0"
+	},
+	{
+		"Item": "1",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "865"
+	},
+	{
+		"Item": "1",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "985"
+	},
+	{
+		"Item": "1",
+		"Ituri": "Year",
+		"Nord-Kivu": "1998"
+	},
+	{
+		"Item": "2",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "1126"
+	},
+	{
+		"Item": "2",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "408"
+	},
+	{
+		"Item": "2",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "1075"
+	},
+	{
+		"Item": "2",
+		"Ituri": "Year",
+		"Nord-Kivu": "1999"
+	},
+	{
+		"Item": "3",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "514"
+	},
+	{
+		"Item": "3",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "63"
+	},
+	{
+		"Item": "3",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "171"
+	},
+	{
+		"Item": "3",
+		"Ituri": "Year",
+		"Nord-Kivu": "2000"
+	},
+	{
+		"Item": "4",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "1184"
+	},
+	{
+		"Item": "4",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "280"
+	},
+	{
+		"Item": "4",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "597"
+	},
+	{
+		"Item": "4",
+		"Ituri": "Year",
+		"Nord-Kivu": "2001"
+	},
+	{
+		"Item": "5",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "2349"
+	},
+	{
+		"Item": "5",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "275"
+	},
+	{
+		"Item": "5",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "2856"
+	},
+	{
+		"Item": "5",
+		"Ituri": "Year",
+		"Nord-Kivu": "2002"
+	},
+	{
+		"Item": "6",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "2467"
+	},
+	{
+		"Item": "6",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "228"
+	},
+	{
+		"Item": "6",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "95"
+	},
+	{
+		"Item": "6",
+		"Ituri": "Year",
+		"Nord-Kivu": "2003"
+	},
+	{
+		"Item": "7",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "63"
+	},
+	{
+		"Item": "7",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "201"
+	},
+	{
+		"Item": "7",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "98"
+	},
+	{
+		"Item": "7",
+		"Ituri": "Year",
+		"Nord-Kivu": "2004"
+	},
+	{
+		"Item": "8",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "82"
+	},
+	{
+		"Item": "8",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "207"
+	},
+	{
+		"Item": "8",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "170"
+	},
+	{
+		"Item": "8",
+		"Ituri": "Year",
+		"Nord-Kivu": "2005"
+	},
+	{
+		"Item": "9",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "135"
+	},
+	{
+		"Item": "9",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "61"
+	},
+	{
+		"Item": "9",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "45"
+	},
+	{
+		"Item": "9",
+		"Ituri": "Year",
+		"Nord-Kivu": "2006"
+	},
+	{
+		"Item": "10",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "31"
+	},
+	{
+		"Item": "10",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "146"
+	},
+	{
+		"Item": "10",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "21"
+	},
+	{
+		"Item": "10",
+		"Ituri": "Year",
+		"Nord-Kivu": "2007"
+	},
+	{
+		"Item": "11",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "269"
+	},
+	{
+		"Item": "11",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "144"
+	},
+	{
+		"Item": "11",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "16"
+	},
+	{
+		"Item": "11",
+		"Ituri": "Year",
+		"Nord-Kivu": "2008"
+	},
+	{
+		"Item": "12",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "2352"
+	},
+	{
+		"Item": "12",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "1156"
+	},
+	{
+		"Item": "12",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "1981"
+	},
+	{
+		"Item": "12",
+		"Ituri": "Year",
+		"Nord-Kivu": "2009"
+	},
+	{
+		"Item": "13",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "24"
+	},
+	{
+		"Item": "13",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "406"
+	},
+	{
+		"Item": "13",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "269"
+	},
+	{
+		"Item": "13",
+		"Ituri": "Year",
+		"Nord-Kivu": "2010"
+	},
+	{
+		"Item": "14",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "11"
+	},
+	{
+		"Item": "14",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "197"
+	},
+	{
+		"Item": "14",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "156"
+	},
+	{
+		"Item": "14",
+		"Ituri": "Year",
+		"Nord-Kivu": "2011"
+	},
+	{
+		"Item": "15",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "131"
+	},
+	{
+		"Item": "15",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "707"
+	},
+	{
+		"Item": "15",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "491"
+	},
+	{
+		"Item": "15",
+		"Ituri": "Year",
+		"Nord-Kivu": "2012"
+	},
+	{
+		"Item": "16",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "144"
+	},
+	{
+		"Item": "16",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "939"
+	},
+	{
+		"Item": "16",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "82"
+	},
+	{
+		"Item": "16",
+		"Ituri": "Year",
+		"Nord-Kivu": "2013"
+	},
+	{
+		"Item": "17",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "92"
+	},
+	{
+		"Item": "17",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "674"
+	},
+	{
+		"Item": "17",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "204"
+	},
+	{
+		"Item": "17",
+		"Ituri": "Year",
+		"Nord-Kivu": "2014"
+	},
+	{
+		"Item": "18",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "232"
+	},
+	{
+		"Item": "18",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "792"
+	},
+	{
+		"Item": "18",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "112"
+	},
+	{
+		"Item": "18",
+		"Ituri": "Year",
+		"Nord-Kivu": "2015"
+	},
+	{
+		"Item": "19",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "140"
+	},
+	{
+		"Item": "19",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "958"
+	},
+	{
+		"Item": "19",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "112"
+	},
+	{
+		"Item": "19",
+		"Ituri": "Year",
+		"Nord-Kivu": "2016"
+	},
+	{
+		"Item": "20",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "94"
+	},
+	{
+		"Item": "20",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "795"
+	},
+	{
+		"Item": "20",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "208"
+	},
+	{
+		"Item": "20",
+		"Ituri": "Year",
+		"Nord-Kivu": "2017"
+	},
+	{
+		"Item": "21",
+		"Ituri": "Ituri",
+		"Nord-Kivu": "330"
+	},
+	{
+		"Item": "21",
+		"Ituri": "Nord-Kivu",
+		"Nord-Kivu": "650"
+	},
+	{
+		"Item": "21",
+		"Ituri": "Sud-Kivu",
+		"Nord-Kivu": "244"
+	},
+	{
+		"Item": "21",
+		"Ituri": "Year",
+		"Nord-Kivu": "2018"
+	},
+	{
+		"Item": ""
+	}
+]
